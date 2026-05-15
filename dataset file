@@ -1,0 +1,9 @@
+id,location,damage_type,severity,status,date
+1,Bangalore,Pothole,High,Pending,2026-05-10
+2,Mysore,Crack,Medium,Resolved,2026-05-11
+3,Hubli,Pothole,Low,Pending,2026-05-12
+4,Kalaburagi,Road Crack,High,In Progress,2026-05-13
+5,Belagavi,Pothole,Medium,Resolved,2026-05-14
+6,Vijayapura,Road Damage,High,Pending,2026-05-15
+7,Davanagere,Crack,Low,Resolved,2026-05-15
+8,Shivamogga,Pothole,Medium,Pending,2026-05-16
